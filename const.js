@@ -13,3 +13,7 @@ function countLetter(text) {
 }
 
 console.log(countLetter(" "));
+
+function newFeature() {
+  console.log("this is the new feature contribution from feature branch");
+}
