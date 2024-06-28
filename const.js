@@ -17,3 +17,6 @@ console.log(countLetter(" "));
 function newFeature() {
   console.log("this is the new feature contribution from feature branch");
 }
+function newFeatureAdded() {
+  console.log("this is new feature added again");
+}
