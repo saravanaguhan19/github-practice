@@ -1,9 +1,9 @@
-import add from "./utils.mjs";
+import sum from "./utils.mjs";
 
 const a = 10;
 
 const b = 20;
 
-const ans = add(a, b);
+const ans = sum(a, b);
 
 console.log(ans);
