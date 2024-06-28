@@ -20,3 +20,7 @@ function newFeature() {
 function newFeatureAdded() {
   console.log("this is new feature added again");
 }
+
+function newFeatureAddedB() {
+  console.log("this is new feature added again from B branch");
+}
