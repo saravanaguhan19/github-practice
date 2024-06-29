@@ -1,4 +1,4 @@
-let value = "string";
+let value = "string new";
 
 function countLetter(text) {
   let count = 0;
