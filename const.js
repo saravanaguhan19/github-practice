@@ -24,3 +24,8 @@ function newFeatureAdded() {
 function newFeatureAddedB() {
   console.log("this is new feature added again from B branch");
 }
+
+function newFeatureAddedC() {
+  console.log("this is new feature added again from c branch");
+}
+
